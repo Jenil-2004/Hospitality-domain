@@ -1,7 +1,8 @@
 # Hospitality-domain
 This project aims to analyze and visualize key performance metrics in the hospitality industry using Power BI. The focus metrics include revenue, RevPAR (Revenue per Available Room), occupancy percentage, ADR (Average Daily Rate), and realization metrics. These insights are crucial for understanding and optimizing hotel performance and revenue generation strategies.
 
-#Key metrics 
+Key metrics 
+
 a. Revenue Analysis
 Total Revenue:
 Sum of all revenue generated across various hotel services (accommodation, dining, amenities).
